@@ -23,7 +23,7 @@ params:
         url: /style-guide
         style: link
       - type: action
-        label: Contact Us
+        label: Contact
         url: /contact
         style: primary
   footer:

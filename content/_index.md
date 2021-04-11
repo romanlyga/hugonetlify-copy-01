@@ -41,7 +41,7 @@ sections:
         image_position: right
         actions:
           - type: action
-            label: Learn More
+            label: Learn
             url: /features
             style: secondary
       - type: feature
